@@ -1,7 +1,6 @@
 # Alessio's Pizzaria - Projeto Final Fundamentos CSS (One Bit Code)
 
-![Screenshot da página inicial da Alessio's Pizzaria](placeholder.png)
-*(Substitua placeholder.png pelo caminho real para uma captura de tela do seu projeto)*
+![screencapture-127-0-0-1-5500-26-index-html-2023-10-12-19_09_19](https://github.com/user-attachments/assets/66dd1de1-9c1c-45c4-bfd4-28eb7e6a5911)
 
 ## 📝 Descrição
 
